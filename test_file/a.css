@@ -1,0 +1,9 @@
+.test_class{
+  color: white;
+  background-color: green;
+  cursor: pointer;
+}
+
+.test_class.has_red_background{
+  background-color: red;
+}
